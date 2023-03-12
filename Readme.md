@@ -1,4 +1,4 @@
-#DHT11 溫濕度感測元件
+# DHT11 溫濕度感測元件
 
 DHT11 是便宜又好用的一個溫度和濕度的感測元件﹐使用 .Net 開發要引用 Iot.Device.DHTxx﹐然後透過 TryReadTemperature 和 TryReadHumidity 分別取得溫度和濕度的數值
 
